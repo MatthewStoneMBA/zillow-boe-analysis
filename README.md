@@ -1,6 +1,6 @@
-# Real Estate BOE Analysis
+# Zillow BOE Analysis
 
-A Python toolkit for quickly evaluating real estate investment deals using back-of-the-envelope (BOE) calculations. Includes functions for cash flow modeling and a RE/MAX listing price scraper.
+A Python toolkit for quickly evaluating real estate investment deals using back-of-the-envelope (BOE) calculations. Includes functions for cash flow modeling and a Zillow & RE/MAX listing price scraper.
 
 ## What It Does
 
